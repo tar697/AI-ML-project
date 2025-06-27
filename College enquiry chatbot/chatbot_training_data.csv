@@ -1,0 +1,406 @@
+text,intent,responses
+Hi,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+How are you?,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+Is anyone there?,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+Hello,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+Good day,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+What's up,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+how are ya,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+heyy,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+whatsup,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+??? ??? ??,greeting,"['Hello!', 'Good to see you again!', 'Hi there, how can I help?']"
+cya,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+see you,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+bye bye,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+See you later,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+Goodbye,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+I am Leaving,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+Bye,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+Have a Good day,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+talk to you later,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+ttyl,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+i got to go,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+gtg,goodbye,"['Sad to see you go :(', 'Talk to you later', 'Goodbye!', 'Come back soon']"
+what is the name of your developers,creator,['College students']
+what is the name of your creators,creator,['College students']
+what is the name of the developers,creator,['College students']
+what is the name of the creators,creator,['College students']
+who created you,creator,['College students']
+your developers,creator,['College students']
+your creators,creator,['College students']
+who are your developers,creator,['College students']
+developers,creator,['College students']
+you are made by,creator,['College students']
+you are made by whom,creator,['College students']
+who created you,creator,['College students']
+who create you,creator,['College students']
+creators,creator,['College students']
+who made you,creator,['College students']
+who designed you,creator,['College students']
+name,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+your name,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+do you have a name,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+what are you called,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+what is your name,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+what should I call you,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+whats your name?,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+what are you,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+who are you,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+who is this,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+what am i chatting to,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+who am i taking to,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+what are you,name,"['You can call me Mind Reader.', ""I'm Mind Reader"", 'I am a Chatbot.', 'I am your helper']"
+timing of college,hours,['College is open 8am-5pm Monday-Saturday!']
+what is college timing,hours,['College is open 8am-5pm Monday-Saturday!']
+working days,hours,['College is open 8am-5pm Monday-Saturday!']
+when are you guys open,hours,['College is open 8am-5pm Monday-Saturday!']
+what are your hours,hours,['College is open 8am-5pm Monday-Saturday!']
+hours of operation,hours,['College is open 8am-5pm Monday-Saturday!']
+when is the college open,hours,['College is open 8am-5pm Monday-Saturday!']
+college timing,hours,['College is open 8am-5pm Monday-Saturday!']
+what about college timing,hours,['College is open 8am-5pm Monday-Saturday!']
+is college open on saturday,hours,['College is open 8am-5pm Monday-Saturday!']
+tell something about college timing,hours,['College is open 8am-5pm Monday-Saturday!']
+what is the college  hours,hours,['College is open 8am-5pm Monday-Saturday!']
+when should i come to college,hours,['College is open 8am-5pm Monday-Saturday!']
+when should i attend college,hours,['College is open 8am-5pm Monday-Saturday!']
+what is my college time,hours,['College is open 8am-5pm Monday-Saturday!']
+college timing,hours,['College is open 8am-5pm Monday-Saturday!']
+timing college,hours,['College is open 8am-5pm Monday-Saturday!']
+more info,number,['You can contact at: NUMBER']
+contact info,number,['You can contact at: NUMBER']
+how to contact college,number,['You can contact at: NUMBER']
+college telephone number,number,['You can contact at: NUMBER']
+college number,number,['You can contact at: NUMBER']
+What is your contact no,number,['You can contact at: NUMBER']
+Contact number?,number,['You can contact at: NUMBER']
+how to call you,number,['You can contact at: NUMBER']
+College phone no?,number,['You can contact at: NUMBER']
+how can i contact you,number,['You can contact at: NUMBER']
+Can i get your phone number,number,['You can contact at: NUMBER']
+how can i call you,number,['You can contact at: NUMBER']
+phone number,number,['You can contact at: NUMBER']
+phone no,number,['You can contact at: NUMBER']
+call,number,['You can contact at: NUMBER']
+list of courses,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+list of courses offered,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+list of courses offered in,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+what are the courses offered in your college?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+courses?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+courses offered,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+courses offered in (your univrsity(UNI) name),course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+courses you offer,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+branches?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+courses available at UNI?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+branches available at your college?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+what are the courses in UNI?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+what are branches in UNI?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+what are courses in UNI?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+branches available in UNI?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+can you tell me the courses available in UNI?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+can you tell me the branches available in UNI?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+computer engineering?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+computer,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+Computer engineering?,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+it,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+IT,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+Information Technology,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+AI/Ml,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+Mechanical engineering,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+Chemical engineering,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+Civil engineering,course,"['Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.']"
+information about fee,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+information on fee,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+tell me the fee,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+college fee,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fee per semester,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+what is the fee of each semester,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+what is the fees of each year,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+what is fee,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+what is the fees,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+how much is the fees,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees for first year,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+about the fees,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+tell me something about the fees,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+What is the fees of hostel,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+how much is the fees,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+hostel fees,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees for AC room,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees for non-AC room,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees for Ac room for girls,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees for non-Ac room for girls,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees for Ac room for boys,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+fees for non-Ac room for boys,fees,"['For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>']"
+where is the college located,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+college is located at,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+where is college,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+where is college located,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+address of college,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+how to reach college,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+college location,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+college address,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+wheres the college,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+how can I reach college,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+whats is the college address,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+what is the address of college,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+address,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+location,location,"['<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>']"
+hostel facility,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel servive,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel location,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel address,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel facilities,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel fees,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+Does college provide hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+Is there any hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+Where is hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+do you have hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+do you guys have hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel capacity,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+what is the hostel fee,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+how to get in hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+what is the hostel address,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+how far is hostel from college,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+hostel college distance,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+where is the hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+how big is the hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+distance between college and hostel,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+distance between hostel and college,hostel,"['For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>']"
+events organised,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+list of events,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+list of events organised in college,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+list of events conducted in college,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+What events are conducted in college,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+Are there any event held at college,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+Events?,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+functions,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+what are the events,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+tell me about events,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+what about events,event,"['For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>']"
+document to bring,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents needed for admision,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents needed at the time of admission,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents needed during admission,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents required for admision,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents required at the time of admission,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents required during admission,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+What document are required for admission,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+Which document to bring for admission,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+what documents do i need,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+what documents do I need for admission,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+documents needed,document,"['To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>']"
+size of campus,floors,['My College has total 2 floors ']
+building size,floors,['My College has total 2 floors ']
+How many floors does college have,floors,['My College has total 2 floors ']
+floors in college,floors,['My College has total 2 floors ']
+floors in college,floors,['My College has total 2 floors ']
+how tall is UNI's College of Engineering college building,floors,['My College has total 2 floors ']
+floors,floors,['My College has total 2 floors ']
+Syllabus for IT,syllabus,"['Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>']"
+what is the Information Technology syllabus,syllabus,"['Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>']"
+syllabus,syllabus,"['Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>']"
+timetable,syllabus,"['Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>']"
+what is IT syllabus,syllabus,"['Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>']"
+syllabus,syllabus,"['Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>']"
+What is next lecture,syllabus,"['Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>']"
+is there any library,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+library facility,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+library facilities,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+do you have library,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+does the college have library facility,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+college library,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+where can i get books,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+book facility,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+Where is library,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+Library,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+Library information,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+Library books information,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+Tell me about library,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+how many libraries,library,"['There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>']"
+how is college infrastructure,infrastructure,['Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection']
+infrastructure,infrastructure,['Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection']
+college infrastructure,infrastructure,['Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection']
+food facilities,canteen,['Our university has canteen with variety of food available']
+canteen facilities,canteen,['Our university has canteen with variety of food available']
+canteen facility,canteen,['Our university has canteen with variety of food available']
+is there any canteen,canteen,['Our university has canteen with variety of food available']
+Is there a cafetaria in college,canteen,['Our university has canteen with variety of food available']
+Does college have canteen,canteen,['Our university has canteen with variety of food available']
+Where is canteen,canteen,['Our university has canteen with variety of food available']
+where is cafetaria,canteen,['Our university has canteen with variety of food available']
+canteen,canteen,['Our university has canteen with variety of food available']
+Food,canteen,['Our university has canteen with variety of food available']
+Cafetaria,canteen,['Our university has canteen with variety of food available']
+food menu,menu,"['we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu']"
+food in canteen,menu,"['we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu']"
+Whats there on menu,menu,"['we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu']"
+what is available in college canteen,menu,"['we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu']"
+what foods can we get in college canteen,menu,"['we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu']"
+food variety,menu,"['we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu']"
+What is there to eat?,menu,"['we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu']"
+What is college placement,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+Which companies visit in college,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+What is average package,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+companies visit,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+package,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+About placement,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+placement,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+recruitment,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+companies,placement,"['To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>']"
+Who is HOD,ithod,['All engineering departments have only one hod XYZ who available on (Place name)']
+Where is HOD,ithod,['All engineering departments have only one hod XYZ who available on (Place name)']
+it hod,ithod,['All engineering departments have only one hod XYZ who available on (Place name)']
+name of it hod,ithod,['All engineering departments have only one hod XYZ who available on (Place name)']
+Who is computer HOD,computerhod,['All engineering departments have only one hod XYZ who available on (PLACE NAME)']
+Where is computer HOD,computerhod,['All engineering departments have only one hod XYZ who available on (PLACE NAME)']
+computer hod,computerhod,['All engineering departments have only one hod XYZ who available on (PLACE NAME)']
+name of computer hod,computerhod,['All engineering departments have only one hod XYZ who available on (PLACE NAME)']
+Who is extc HOD,extchod,['Different school wise hod are different.So be more clear with your school or department']
+Where is  extc HOD,extchod,['Different school wise hod are different.So be more clear with your school or department']
+extc hod,extchod,['Different school wise hod are different.So be more clear with your school or department']
+name of extc hod,extchod,['Different school wise hod are different.So be more clear with your school or department']
+what is the name of principal,principal,['XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate']
+whatv is the principal name,principal,['XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate']
+principal name,principal,['XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate']
+Who is college principal,principal,['XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate']
+Where is principal's office,principal,['XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate']
+principal,principal,['XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate']
+name of principal,principal,['XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate']
+exam dates,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+exam schedule,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+When is semester exam,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+Semester exam timetable,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+sem,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+semester,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+exam,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+when is exam,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+exam timetable,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+exam dates,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+when is semester,sem,"['Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>']"
+what is the process of admission,admission,"['Application can also be submitted online through the Unversity\'s  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>']"
+what is the admission process,admission,"['Application can also be submitted online through the Unversity\'s  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>']"
+How to take admission in your college,admission,"['Application can also be submitted online through the Unversity\'s  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>']"
+What is the process for admission,admission,"['Application can also be submitted online through the Unversity\'s  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>']"
+admission,admission,"['Application can also be submitted online through the Unversity\'s  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>']"
+admission process,admission,"['Application can also be submitted online through the Unversity\'s  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>']"
+scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+Is scholarship available,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship engineering,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship it,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship ce,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship mechanical,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship civil,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship chemical,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship for AI/ML,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+available scholarships,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship for computer engineering,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship for IT engineering,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship for mechanical engineering,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship for civil engineering,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+scholarship for chemical engineering,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+list of scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+comps scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+IT scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+mechanical scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+civil scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+chemical scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+automobile scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+first year scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+second year scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+third year scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+fourth year scholarship,scholarship,"['Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>']"
+What facilities college provide,facilities,"[""Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen""]"
+College facility,facilities,"[""Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen""]"
+What are college facilities,facilities,"[""Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen""]"
+facilities,facilities,"[""Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen""]"
+facilities provided,facilities,"[""Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen""]"
+max number of students,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+number of seats per branch,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+number of seats in each branch,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+maximum number of seats,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+maximum students intake,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+What is college intake,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+how many stundent are taken in each branch,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+seat allotment,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+seats,college intake,"['For IT, Computer and extc 60 per branch and seat may be differ for different department.']"
+college dress code,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+college dresscode,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+what is the uniform,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+can we wear casuals,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+Does college have an uniform,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+Is there any uniform,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+uniform,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+what about uniform,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+do we have to wear uniform,uniform,['ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER']
+what are the different committe in college,committee,['For the various committe in college contact this number: ADD NUMBER']
+different committee in college,committee,['For the various committe in college contact this number: ADD NUMBER']
+Are there any committee in college,committee,['For the various committe in college contact this number: ADD NUMBER']
+Give me committee details,committee,['For the various committe in college contact this number: ADD NUMBER']
+committee,committee,['For the various committe in college contact this number: ADD NUMBER']
+how many committee are there in college,committee,['For the various committe in college contact this number: ADD NUMBER']
+I love you,random,"['I am not program for this, please ask appropriate query']"
+Will you marry me,random,"['I am not program for this, please ask appropriate query']"
+Do you love me,random,"['I am not program for this, please ask appropriate query']"
+fuck,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+bitch,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+shut up,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+hell,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+stupid,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+idiot,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+dumb ass,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+asshole,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+fucker,swear,"['please use appropriate language', 'Maintaining decency would be appreciated']"
+holidays,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+when will semester starts,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+when will semester end,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+when is the holidays,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+list of holidays,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+Holiday in these year,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+holiday list,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+about vacations,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+about holidays,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+When is vacation,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+When is holidays,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+how long will be the vacation,vacation,['Academic calender is given to you by your class-soordinators after you join your respective classes']
+sports and games,sports,"['Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>']"
+give sports details,sports,"['Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>']"
+sports infrastructure,sports,"['Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>']"
+sports facilities,sports,"['Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>']"
+information about sports,sports,"['Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>']"
+Sports activities,sports,"['Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>']"
+please provide sports and games information,sports,"['Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>']"
+okk,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+okie,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+nice work,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+well done,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+good job,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+thanks for the help,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+Thank You,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+its ok,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+Thanks,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+Good work,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+k,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+ok,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+okay,salutaion,"['I am glad I helped you', 'welcome, anything else i can assist you with?']"
+what can you do,task,"['I can answer to low-intermediate questions regarding college', 'You can ask me questions regarding college, and i will try to answer them']"
+what are the thing you can do,task,"['I can answer to low-intermediate questions regarding college', 'You can ask me questions regarding college, and i will try to answer them']"
+things you can do,task,"['I can answer to low-intermediate questions regarding college', 'You can ask me questions regarding college, and i will try to answer them']"
+what can u do for me,task,"['I can answer to low-intermediate questions regarding college', 'You can ask me questions regarding college, and i will try to answer them']"
+how u can help me,task,"['I can answer to low-intermediate questions regarding college', 'You can ask me questions regarding college, and i will try to answer them']"
+why i should use you,task,"['I can answer to low-intermediate questions regarding college', 'You can ask me questions regarding college, and i will try to answer them']"
+ragging,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+is ragging practice active in college,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+does college have any antiragging facility,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+is there any ragging cases,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+is ragging done here,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+ragging against,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+antiragging facility,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+ragging juniors,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+ragging history,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+ragging incidents,ragging,"['We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging']"
+hod,hod,"['HODs differ for each branch, please be more specific like: (HOD it)']"
+hod name,hod,"['HODs differ for each branch, please be more specific like: (HOD it)']"
+who is the hod,hod,"['HODs differ for each branch, please be more specific like: (HOD it)']"
