@@ -1,1 +1,1 @@
-
+Project description: The College Enquiry Chatbot is an AI-powered virtual assistant designed to provide instant answers to common questions from students and parents about a college. Built using Python and Streamlit, the chatbot uses a predefined set of intents and responses to handle queries related to college hours, admission procedures, courses offered, fee structure, and general information such as greetings and contact details.
